@@ -50,5 +50,9 @@ const tripSchema = mongoose.Schema({
 });
 
 
-const Trip = mongoose.model('tripdetails', tripSchema)
+//const Trip = mongoose.model('tripdetails', tripSchema)
+//module.exports = { Trip }
+const Trip = mongoose.model('tripdetails', tripSchema, 'trips')
 module.exports = { Trip }
+
+// 3rd parameter = actual collection name in MongoDB
