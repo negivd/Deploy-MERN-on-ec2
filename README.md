@@ -30,3 +30,5 @@ For frontend, you need to create `.env` file and put the following content (reme
 ```bash
 REACT_APP_BACKEND_URL=http://localhost:3001
 ```
+
+![EC2 Setup](docs/images/image1.png)
