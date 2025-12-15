@@ -6,6 +6,10 @@ https://github.com/negivd/Deploy-MERN-on-ec2.git
 Domain:
 vishwadeep.online (Purchased from Namecheap)
 
+## 🧱 Architecture Diagram:
+
+
+
 ## 📁 Project Structure
 ```text
 Deploy-MERN-on-ec2/
