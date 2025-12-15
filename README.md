@@ -8,6 +8,7 @@ vishwadeep.online (Purchased from Namecheap)
 
 ## 🧱 Architecture Diagram:
 
+https://github.com/negivd/Deploy-MERN-on-ec2/blob/main/Travel_Memory_Architecture.drawio
 
 
 ## 📁 Project Structure
