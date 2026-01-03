@@ -310,6 +310,10 @@ NGINX Reverse Proxy
 SSL with Certbot  
 Cloudflare CDN + WAF  
 Production Ready AWS Setup  
+<img width="1395" height="966" alt="Picture3" src="https://github.com/user-attachments/assets/940b0bfe-6345-4028-bbd3-61566a68e546" />
+<img width="1395" height="1018" alt="Picture2" src="https://github.com/user-attachments/assets/4bbd6b5a-54ff-4080-9b2a-c8b9fdc96781" />
+<img width="1395" height="997" alt="Picture1" src="https://github.com/user-attachments/assets/4f08c374-ff01-47d5-80d5-b423974a8363" />
+<img width="1395" height="757" alt="DB_Record_entry" src="https://github.com/user-attachments/assets/27b234ad-624d-4053-b9fc-bfe24680ae88" />
 
 ---
 
